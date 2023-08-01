@@ -1,0 +1,50 @@
+#imgBanner{
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+#textoBanner{
+    height: 100px;
+}
+
+.fotosBanner{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 25%;
+    height: 300px;
+}
+
+#img1Banner{
+    background-image: url(../images/middle1.jpg);
+}
+#img2Banner{
+    background-image: url(../images/middle2.jpg);
+}
+#img3Banner{
+    background-image: url(../images/middle3.jpg);
+}
+#img4Banner{
+    background-image: url(../images/middle4.jpg);
+}
+
+#quemSomos,#diversao{
+    height: 500px;
+}
+
+#imgFood{
+    background-image: url(../images/food2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#imgDiversao{
+    background-image: url(../images/toy1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
